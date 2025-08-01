@@ -1,0 +1,10 @@
+/* Custom styles to apply the Inter font */
+body {
+    font-family: 'Inter', sans-serif;
+}
+/* A subtle background pattern */
+body {
+    background-color: #f8fafc; /* bg-gray-50 */
+    background-image: radial-gradient(#dbeafe 1.5px, transparent 1.5px);
+    background-size: 30px 30px;
+}
